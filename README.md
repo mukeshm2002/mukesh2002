@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Microservices, JWT, Docker, and System Design**
 - 💬 Ask me about **Java, Spring Boot, REST APIs, React**
 - 🏢 Dream Company: **Zoho**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **mukeshkannan509@gmail.com**
 - ⚡ Fun fact: I don’t just write code—I **solve real problems** using Java and caffeine! ☕  
   Motto: `Think Big, Build Smart, Deploy Fast!` 🚀
 
@@ -43,6 +43,6 @@
 
 <p align="left">
 <a href="[https://www.linkedin.com/in/mr-mukesh-murugavel-86bb14285/]" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://your-portfolio-link.com" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+<a href="mailto:mukeshkannan509@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://mukeshm2002.github.io/My_Portfolio/"target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
