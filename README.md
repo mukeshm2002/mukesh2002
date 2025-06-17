@@ -41,7 +41,7 @@
 
 ---
 
-### 📄 My Resume  
+### 📄 My Resume 
 📌 [View My Resume (PDF)](https://drive.google.com/file/d/1-KgTSXGdpiblOMS2SQpHEhyqUzqsYQav/view?usp=drivesdk)
 
 ---
