@@ -23,6 +23,26 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
+---
+
+### 🧠 My Projects
+
+- 🚀 **Employee Management System**  
+  Full-stack app using Spring Boot + React for managing employees with role-based access and JWT auth.  
+  🔗 [GitHub Repository](https://github.com/mukeshm2002/Guvi_Projects/tree/main/employeemanagement)
+
+- 🚌 **Online Bus Ticket Booking App**  
+  RedBus-inspired web application using Spring Boot, MongoDB, HTML/CSS/JS with Bootstrap UI & Admin Dashboard.  
+  🔗 [GitHub Repository](https://github.com/mukeshm2002/Guvi_Projects/tree/main/bus-booking)
+
+- 💊 **Patient Medicine & Appointment System**  
+  Hospital management system to handle appointments, prescriptions, and secure patient data.  
+  🔗 [GitHub Repository](https://github.com/mukeshm2002/Guvi_Projects/tree/main/patientapp)
+
+---
+
+### 📄 My Resume  
+📌 [View My Resume (PDF)](https://drive.google.com/file/d/1-KgTSXGdpiblOMS2SQpHEhyqUzqsYQav/view?usp=drivesdk)
 
 ### 📊 GitHub Stats
 
