@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Java Full-Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+robust+apps+with+Java+%26+React;Always+learning+and+growing!&center=true&width=500&height=30">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+robust+web apps+with+Java+%26+React;Always+learning+and+growing!&center=true&width=500&height=30">
 </p>
 
 ---
