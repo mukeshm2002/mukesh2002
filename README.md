@@ -42,7 +42,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-<a href="[https://www.linkedin.com/in/mr-mukesh-murugavel-86bb14285/]" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mr-mukesh-murugavel-86bb14285/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:mukeshkannan509@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://mukeshm2002.github.io/My_Portfolio/"target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
