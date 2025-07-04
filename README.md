@@ -1,78 +1,99 @@
-<h1 align="center">Hi 👋, I'm Mukesh</h1>
-<h3 align="center">🚀 Passionate Java Full-Stack Developer | Problem Solver | Tech Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Mukesh Murugavel</h1>
+<h3 align="center">🚀 Aspiring Java Full Stack Developer | Spring Boot • React • MySQL • MongoDB</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+robust+web+apps+with+Java+%26+React;Always+learning+and+growing!&center=true&width=500&height=30">
+  <a href="https://www.linkedin.com/in/mr-mukesh-murugavel-86bb14285/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
+  </a>
+  <a href="https://github.com/mukeshm2002">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github" />
+  </a>
+  <a href="mailto:Mukeshkannan509@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail" />
+  </a>
+  <a href="https://mukeshm2002.github.io/My_Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-ff69b4?logo=google-chrome" />
+  </a>
 </p>
 
 ---
 
-- 🔭 Currently working on: **Spring Boot + React Projects**
-- 🌱 Learning: **Microservices, JWT, Docker, System Design**
-- 💬 Ask me about: **Java, Spring Boot, REST APIs, React**
-- 🏢 Dream Company: **Zoho**
-- 📫 Contact: **mukeshkannan509@gmail.com**
-- ⚡ Fun Fact: I don’t just write code—I **solve real-world problems with Java** (and ☕ caffeine!)
-- 🧠 Motto: `Think Big, Build Smart, Deploy Fast!` 🚀
+### 👨‍💻 About Me
+
+- 🎓 B.Tech IT – Annai College of Engineering (2020–2024)
+- 💡 Passionate about backend development, RESTful APIs & microservices
+- 🔍 Currently exploring Cloud (AWS), Docker, and System Design
+- 🚀 Career Goal: Become a top developer at Zoho or a product-based company
+- 🧠 Fun Fact: I love solving problems, optimizing queries, and exploring new frameworks!
 
 ---
 
 ### 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
+| Backend | Frontend | Database | DevOps & Tools | Security |
+|--------|----------|----------|----------------|----------|
+| Java, Spring Boot, JPA | HTML, CSS, JS, React, Thymeleaf | MySQL, MongoDB | Git, Docker, Postman, Maven | JWT, RBAC |
 
 ---
 
-### 💼 Featured Projects
+### 🛠 Featured Projects
 
-📌 **Employee Management System**  
-> Full-stack web application to manage employee records with role-based access control and JWT authentication.  
-🔗 [GitHub Repo](https://github.com/mukeshm2002/Guvi_Projects/tree/main/employeemanagement)
-
-📌 **Online Bus Ticket Booking App**  
-> RedBus-inspired responsive web app with admin dashboard, MongoDB backend, and real-time data integration.  
-🔗 [GitHub Repo](https://github.com/mukeshm2002/Guvi_Projects/tree/main/bus-booking)
-
-📌 **Patient Medicine & Appointment System**  
-> Hospital management system for secure patient data, appointments, and medicine tracking using Spring Boot.  
-🔗 [GitHub Repo](https://github.com/mukeshm2002/Guvi_Projects/tree/main/patientapp)
+#### 🔹 Patient Medicine & Appointment System  
+🧪 Spring Boot + Thymeleaf + MySQL  
+📌 Full-stack CRUD with patient, appointment, and medication modules  
+[🔗 View Project](#)
 
 ---
 
-### 📄 Resume
+#### 🔹 Employee Management System  
+🔐 Spring Boot + MySQL + React + JWT  
+📌 Role-Based Access (Admin, Manager, Employee), Secure Auth, Optimized Queries  
+[🔗 View Project](#)
 
-📥 [View My Resume (PDF)](https://drive.google.com/file/d/1-KgTSXGdpiblOMS2SQpHEhyqUzqsYQav/view?usp=drivesdk)
+---
+
+#### 🔹 Online Bus Ticket Booking System  
+🚌 Microservices + MongoDB + Docker  
+📌 Real-time seat availability, Razorpay Integration, Load Balancing  
+[🔗 View Project](#)
+
+---
+
+### 📜 Certifications
+
+- ✅ Java Full Stack Developer – GUVI (2025)  
+- ✅ Frontend Bootcamp – Udemy (2024)
+
+---
+
+### 🏆 Achievements
+
+- 💥 Ranked Top 15% – **HACKENGERS** Coding Competition  
+- 🏁 Built 3+ full-stack projects with real-time features  
+- 👨‍🎓 Active participant in coding events and online challenges
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukeshm2002&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshm2002&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mukeshm2002&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=mukeshm2002&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-### 📈 Activity Graph
+### 🤝 Let’s Connect
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mukeshm2002&theme=react-dark&hide_border=true)](https://github.com/mukeshm2002)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mr-mukesh-murugavel-86bb14285/)  
+- 💼 [Portfolio](https://mukeshm2002.github.io/My_Portfolio/)  
+- 📧 [Mukeshkannan509@gmail.com](mailto:Mukeshkannan509@gmail.com)
 
 ---
 
-### 🌐 Let's Connect
+### ✨ Quote I Live By
+> “Consistency is the key to success. Small efforts every day lead to big results.”
 
-<p align="center">
-  <a href="mailto:mukeshkannan509@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mr-mukesh-murugavel-86bb14285/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://mukeshm2002.github.io/My_Portfolio/" target="blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-</p>
+---
+
+<p align="center">🔥 Thanks for visiting! Let’s build something amazing together. 🔥</p>
