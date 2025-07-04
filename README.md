@@ -1,80 +1,38 @@
-<h1 align="center">Hi 👋, I'm Mukesh Murugavel</h1>
-<h3 align="center">🚀 Aspiring Java Full Stack Developer | Spring Boot • React • MySQL • MongoDB</h3>
+<h1 align="center">Hi there, I'm <span style="color:#00BFFF;">Mukesh Murugavel 👋</span></h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mr-mukesh-murugavel-86bb14285/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
-  </a>
-  <a href="https://github.com/mukeshm2002">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github" />
-  </a>
-  <a href="mailto:Mukeshkannan509@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail" />
-  </a>
-  <a href="https://mukeshm2002.github.io/My_Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-ff69b4?logo=google-chrome" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Aspiring+Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL+%7C+MongoDB;Building+Scalable+Web+Applications+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mr-mukesh-murugavel-86bb14285/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:Mukeshkannan509@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/mukeshm2002"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://mukeshm2002.github.io/My_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🧰 My Tech Toolbox
 
-- 🎓 B.Tech IT – Annai College of Engineering (2020–2024)
-- 💡 Passionate about backend development, RESTful APIs & microservices
-- 🔍 Currently exploring Cloud (AWS), Docker, and System Design
-- 🚀 Career Goal: Become a top developer at Zoho or a product-based company
-- 🧠 Fun Fact: I love solving problems, optimizing queries, and exploring new frameworks!
-
----
-
-### 🧰 Tech Stack
-
-| Backend | Frontend | Database | DevOps & Tools | Security |
-|--------|----------|----------|----------------|----------|
-| Java, Spring Boot, JPA | HTML, CSS, JS, React, Thymeleaf | MySQL, MongoDB | Git, Docker, Postman, Maven | JWT, RBAC |
-
----
-
-### 🛠 Featured Projects
-
-#### 🔹 Patient Medicine & Appointment System  
-🧪 Spring Boot + Thymeleaf + MySQL  
-📌 Full-stack CRUD with patient, appointment, and medication modules  
-[🔗 View Project](#)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50"/>
+</p>
 
 ---
 
-#### 🔹 Employee Management System  
-🔐 Spring Boot + MySQL + React + JWT  
-📌 Role-Based Access (Admin, Manager, Employee), Secure Auth, Optimized Queries  
-[🔗 View Project](#)
-
----
-
-#### 🔹 Online Bus Ticket Booking System  
-🚌 Microservices + MongoDB + Docker  
-📌 Real-time seat availability, Razorpay Integration, Load Balancing  
-[🔗 View Project](#)
-
----
-
-### 📜 Certifications
-
-- ✅ Java Full Stack Developer – GUVI (2025)  
-- ✅ Frontend Bootcamp – Udemy (2024)
-
----
-
-### 🏆 Achievements
-
-- 💥 Ranked Top 15% – **HACKENGERS** Coding Competition  
-- 🏁 Built 3+ full-stack projects with real-time features  
-- 👨‍🎓 Active participant in coding events and online challenges
-
----
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mukeshm2002&show_icons=true&theme=tokyonight" width="48%" />
@@ -83,17 +41,34 @@
 
 ---
 
-### 🤝 Let’s Connect
+## 🚀 Projects Highlight
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mr-mukesh-murugavel-86bb14285/)  
-- 💼 [Portfolio](https://mukeshm2002.github.io/My_Portfolio/)  
-- 📧 [Mukeshkannan509@gmail.com](mailto:Mukeshkannan509@gmail.com)
-
----
-
-### ✨ Quote I Live By
-> “Consistency is the key to success. Small efforts every day lead to big results.”
+- 🩺 **Patient Medicine System** – Spring Boot, Thymeleaf, MySQL  
+- 👨‍💼 **Employee Management App** – Spring Boot, JWT, React, MySQL  
+- 🚌 **Online Bus Booking App** – Microservices, MongoDB, Docker, Razorpay
 
 ---
 
-<p align="center">🔥 Thanks for visiting! Let’s build something amazing together. 🔥</p>
+## 📜 Certifications
+
+- ✅ Java Full Stack Developer – GUVI (2025)  
+- ✅ Frontend Bootcamp – Udemy (2024)
+
+---
+
+## 💼 Let's Collaborate
+
+- 📫 Email: **Mukeshkannan509@gmail.com**  
+- 🌐 Portfolio: [mukeshm2002.github.io/My_Portfolio](https://mukeshm2002.github.io/My_Portfolio)  
+- 🔗 LinkedIn: [Connect with Me](https://www.linkedin.com/in/mr-mukesh-murugavel-86bb14285/)
+
+---
+
+## 💬 Fun Quote
+> “First, solve the problem. Then, write the code.” – John Johnson
+
+---
+
+<p align="center">
+  <b>🔥 Thanks for visiting my profile! Let's code together. 🔥</b>
+</p>
